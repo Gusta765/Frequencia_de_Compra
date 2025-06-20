@@ -98,7 +98,7 @@ Descobrir que "70% dos clientes que compram o produto A também compram o produt
 ## 5. Próximos Passos e Melhorias
 
 Para aprofundar a análise, os próximos passos incluem:
-* **Calcular o Lift:** Medir se o par de produtos aparece junto com mais frequência do que o esperado pelo acaso. Um Lift > 1 indica uma associação positiva.
+
 * **Filtrar por Suporte Mínimo:** Focar a análise apenas em regras que envolvem produtos com um volume mínimo de vendas para garantir relevância estatística.
 * **Visualização de Dados:** Criar um mapa de calor ou um gráfico de rede para visualizar as relações mais fortes entre os produtos.
 
